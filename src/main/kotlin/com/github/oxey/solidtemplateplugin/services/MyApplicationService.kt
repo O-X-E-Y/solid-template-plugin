@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oxey.solidtemplateplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oxey.solidtemplateplugin.MyBundle
 
 class MyApplicationService {
 
